@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image_185.jpg</filename>
+	<path>/home/swolff/bilder/train/image_185.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>312</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>notPerson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>85</ymin>
+			<xmax>172</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>
